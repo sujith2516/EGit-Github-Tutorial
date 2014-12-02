@@ -20,7 +20,7 @@ public class FirstSwingApplication{
 		JLabel label=new JLabel();
 		label.setOpaque(true);
 		label.setBackground(new Color(123,332,124));
-		
+		System.out.println("HAI");
 		//JPanel mainPanel=new JPanel();
 	
 	}
